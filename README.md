@@ -1,1 +1,1 @@
-# Angular12-Course-Maximilian-Schwarzm-ller-
+# Materials for Angular course
